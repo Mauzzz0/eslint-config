@@ -21,7 +21,8 @@ npm i -D \
 ```
 
 ### ESLint flat config
-Create `eslint.config.js` file in project root folder and paste content from [index.js](./index.js) file
+Create `eslint.config.js` file in your project root folder and paste content from [eslint.config.js](./eslint.config.js) file  
+(Just copy file `eslint.config.js` to your project root)
 
 ### Prettier config
 Paste this `Prettier` config into your `package.json` file:
