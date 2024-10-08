@@ -36,7 +36,7 @@ Paste this `Prettier` config into your `package.json` file:
   },
 ```
 
-Project's file `package.json` should be like this:
+Project's file `package.json` should looks like this:
 ```json
 {
   "name": "name",
