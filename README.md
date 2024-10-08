@@ -21,7 +21,7 @@ npm i -D \
 ```
 
 ### ESLint flat config
-Create `eslint.config.js` file and paste content from [index.js](./index.js) file
+Create `eslint.config.js` file in project root folder and paste content from [index.js](./index.js) file
 
 ### Prettier config
 Paste this `Prettier` config into your `package.json` file:
@@ -35,7 +35,7 @@ Paste this `Prettier` config into your `package.json` file:
   },
 ```
 
-It should be like this
+Project's file `package.json` should be like this:
 ```json
 {
   "name": "name",
