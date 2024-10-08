@@ -52,3 +52,20 @@ It should be like this
   "dependencies": {}
 }
 ```
+
+## Enabling
+To enable ESLint in WebStorm:
+1. Make sure that your `WebStorm` has at least version `2024.1`
+2. Open `Settings`
+3. Type `eslint` in search field
+4. Open `Languages & Frameworks` -> `JavaScript` -> `Code Quality Tools` -> `ESLint`
+5. Select `Automatic ESLint configuration` and `Run eslint --fix on save`
+6. Click `OK`  
+
+After that steps your code will be automatically formatted on each save:
+* On `ctrl + S` or `⌘ + S`
+* Changing focus to other file
+* Changing focus to other window
+* Making commit
+* and other actions
+![alt text](.github/webstorm.png)
