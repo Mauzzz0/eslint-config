@@ -4,20 +4,7 @@ The ESLint Configuration package for the Node.js TypeScript Developers
 ## Installation
 ### Install dependencies
 ```shell
-npm i -D \
-  @eslint/js@9 \
-  @types/eslint__js@8 \
-  @typescript-eslint/eslint-plugin@8 \
-  @typescript-eslint/parser@8 \
-  eslint@9 \
-  eslint-config-prettier@9 \
-  eslint-plugin-import@2 \
-  eslint-plugin-prettier@5 \
-  eslint-plugin-simple-import-sort@12 \
-  eslint-plugin-unused-imports@4 \
-  eslint-import-resolver-typescript@3 \
-  prettier@3 \
-  typescript-eslint@8
+npm i -D @eslint/js@9 @types/eslint__js@8 @typescript-eslint/eslint-plugin@8 @typescript-eslint/parser@8 eslint@9 eslint-config-prettier@9 eslint-plugin-import@2 eslint-plugin-prettier@5 eslint-plugin-simple-import-sort@12 eslint-plugin-unused-imports@4 eslint-import-resolver-typescript@3 prettier@3 typescript-eslint@8
 ```
 
 ### ESLint flat config
