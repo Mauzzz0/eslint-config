@@ -66,6 +66,7 @@ module.exports = [
       'no-eval': 'error',
       'no-alert': 'warn',
       'no-compare-neg-zero': 'warn',
+      'no-case-declarations': 'off',
       'no-else-return': 'warn',
       'no-empty': 'warn',
       'no-extend-native': 'error',
