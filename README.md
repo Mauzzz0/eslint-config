@@ -18,7 +18,8 @@ Paste this `Prettier` config into your `package.json` file:
     "singleQuote": true,
     "trailingComma": "all",
     "printWidth": 120,
-    "tabWidth": 2
+    "tabWidth": 2,
+    "endOfLine": "lf"
   },
 ```
 
@@ -32,7 +33,8 @@ Project's file `package.json` should looks like this:
     "singleQuote": true,
     "trailingComma": "all",
     "printWidth": 120,
-    "tabWidth": 2
+    "tabWidth": 2,
+    "endOfLine": "lf"
   },
   "devDependencies": {},
   "dependencies": {}
