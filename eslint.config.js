@@ -59,7 +59,7 @@ module.exports = [
 
       camelcase: 'error',
       'consistent-return': 'error',
-      'default-case': 'warn',
+      'default-case': 'off',
       eqeqeq: 'error',
       'max-classes-per-file': 'off',
       'no-console': 'off',
