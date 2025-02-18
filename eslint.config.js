@@ -43,7 +43,7 @@ module.exports = [
       '@typescript-eslint/no-non-null-assertion': 'warn',
       '@typescript-eslint/no-empty-object-type': 'off',
 
-      '@typescript-eslint/explicit-function-return-type': 'off',
+      '@typescript-eslint/explicit-function-return-type': 'error',
       '@typescript-eslint/explicit-module-boundary-types': 'off',
 
       'import/first': 'warn',
@@ -64,7 +64,7 @@ module.exports = [
       'max-classes-per-file': 'off',
       'no-console': 'off',
       'no-eval': 'error',
-      'no-alert': 'warn',
+      'no-alert': 'error',
       'no-compare-neg-zero': 'warn',
       'no-case-declarations': 'off',
       'no-else-return': 'warn',
