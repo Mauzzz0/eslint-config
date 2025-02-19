@@ -13,6 +13,10 @@ Create `eslint.config.js` file in your project root folder and paste content fro
 
 ### Prettier config
 Paste this `Prettier` config into your `package.json` file:
+> ⚙️ The setting `"printWidth": 120,` determines the maximum length of a line of code. 
+> On exceeding this length, the line will be formatted to several lines.
+> 
+> ✅ You can change `"printWidth": 120,` **to any comfortable for you**.
 ```json
   "prettier": {
     "singleQuote": true,
