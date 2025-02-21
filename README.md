@@ -27,24 +27,6 @@ Paste this `Prettier` config into your `package.json` file:
   },
 ```
 
-Project's file `package.json` should looks like this:
-```json
-{
-  "name": "name",
-  "version": "x.x.x",
-  "scripts": {},
-  "prettier": {
-    "singleQuote": true,
-    "trailingComma": "all",
-    "printWidth": 120,
-    "tabWidth": 2,
-    "endOfLine": "lf"
-  },
-  "devDependencies": {},
-  "dependencies": {}
-}
-```
-
 ## Enabling
 To enable ESLint in WebStorm:
 1. Make sure that your `WebStorm` has at least version `2024.1`
