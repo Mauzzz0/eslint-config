@@ -22,8 +22,7 @@ Paste this `Prettier` config into your `package.json` file:
     "singleQuote": true,
     "trailingComma": "all",
     "printWidth": 120,
-    "tabWidth": 2,
-    "endOfLine": "lf"
+    "tabWidth": 2
   },
 ```
 
