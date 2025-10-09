@@ -61,6 +61,7 @@ module.exports = [
       'consistent-return': 'error',
       'default-case': 'off',
       eqeqeq: 'error',
+      'object-shorthand': 'warn',
       'max-classes-per-file': 'off',
       'no-console': 'off',
       'no-eval': 'error',
